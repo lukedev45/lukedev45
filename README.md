@@ -2,7 +2,7 @@
 
 🎓 Applied Mathematics & Physics student  
 💡 Interested in Quantum Science, Data Science, and Engineering  
-🔭 Exploring the intersection of **AI**, **quantum technologies**, and **applied problem-solving**  
+🔭 Exploring the intersection of **AI**, **quantum technologies**, and **data science**  
 🌱 Currently learning: advanced coding workflows, AI agents, and web development basics  
 
 ---
