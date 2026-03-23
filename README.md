@@ -20,14 +20,6 @@ As an **IBM Qiskit Advocate**, I contribute to the quantum computing community b
 
 ---
 
-## 📂 Featured Repos
-- [Qiskit-Doc-MCP](https://github.com/lukedev45/Qiskit-Doc-MCP)  
-- [Computer Vision for Emotions](https://github.com/lukedev45/Computer-Vision-for-Emotions)  
-- [Semantic Book Recommender](https://github.com/lukedev45/book-recommender)  
-- [Stratospheric Ozone Dynamics](https://github.com/lukedev45/Stratospheric-Ozone-Dynamics)
-
----
-
 ## 🤝 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/luke-devlin-a7bb93235)  
 - [YouTube](https://www.youtube.com/@lukedevlin45)  
