@@ -12,7 +12,7 @@ MSc Mathematical Sciences student at the **University of Bristol**, with a BSc i
   Implementing stabilizer circuit synthesis in Qiskit's Rust core.
 - **[Qiskit MCP servers](https://github.com/Qiskit/mcp-servers/pull/103) · IBM**
   Contributed an MCP server that gives AI agents access to up-to-date Qiskit documentation.
-- **[IonQ]([https://github.com/ionq/ionq-core](https://github.com/ionq/ionq-core/pull/124)) · unitaryHACK 2026 bounty winner**
+- **[IonQ](https://github.com/ionq/ionq-core/pull/124) · unitaryHACK 2026 bounty winner**
   Wrote the first runnable sync and async examples showing how downstream SDKs integrate with `ionq-core`.
 
 ## Projects
